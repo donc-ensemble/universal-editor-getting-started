@@ -1,7 +1,7 @@
 mountpoints:
   /:
     # url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
-    # ur: "https://author-p151553-e1560212.adobeaemcloud.com/bin/franklin.delivery/donc-ensemble/universal-editor-getting-started/main"
-    url: "https://author-p151553-e1566560.adobeaemcloud.com/bin/franklin.delivery/donc-ensemble/universal-editor-getting-started/main"
+    # url: "https://author-p151553-e1560212.adobeaemcloud.com/bin/franklin.delivery/donc-ensemble/universal-editor-getting-started/main" #rde
+    url: "https://author-p151553-e1566560.adobeaemcloud.com/bin/franklin.delivery/donc-ensemble/universal-editor-getting-started/main" #prod
     type: "markup"
     suffix: ".html"
