@@ -1,18 +1,5 @@
 [
   {
-  "id": "section",
-  "components": [
-    "text",
-    "image",
-    "button",
-    "title",
-    "hero",
-    "cards",
-    "columns",
-    "quote"
-   ]
-  },
-  {
     "id": "main",
     "components": [
       "section"
@@ -28,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "quote"
     ]
   },
   {
